@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: gladytest
+netty:
+  default:
+    allocator:
+      max-order: 3
